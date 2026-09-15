@@ -30,9 +30,9 @@ The main objective of this project is to analyze call centre data and answer imp
 
 ---
 
-## 📊 Key Analysis Areas
+##  Key Analysis Areas
 
-### 👨‍💼 Agent Performance
+###  Agent Performance
 
 The dashboard evaluates individual and overall agent performance using metrics such as:
 
@@ -46,7 +46,7 @@ This helps identify high-performing agents and areas where additional support or
 
 ---
 
-### 📞 Call Activity & Trends
+###  Call Activity & Trends
 
 Call activity is analyzed across different time periods to identify operational patterns.
 
@@ -62,7 +62,7 @@ Understanding peak periods can help managers improve staffing and resource alloc
 
 ---
 
-### 😊 Customer Experience
+###  Customer Experience
 
 Customer satisfaction is analyzed alongside call activity and agent performance.
 
@@ -91,7 +91,7 @@ The dashboard focuses on important call centre KPIs including:
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 * **Microsoft Power BI Desktop** — Dashboard development and visualization
 * **Microsoft Excel** — Data source and data preparation
@@ -101,7 +101,7 @@ The dashboard focuses on important call centre KPIs including:
 
 ---
 
-## 🔄 Project Workflow
+##  Project Workflow
 
 ```text
 Raw Call Centre Data
@@ -170,7 +170,7 @@ This dashboard is particularly useful for:
 
 ---
 
-## 🚀 Skills Demonstrated
+##  Skills Demonstrated
 
 This project demonstrates practical skills in:
 
